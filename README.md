@@ -7,6 +7,8 @@ This application provides a front-end administration framework for tariff rates.
   * Filter rates by searching strings, text fields, dates, and numeric values.
   * Sort on any field to customize the view
 
+![Tariff Rate Manager](/public/screenshot.png)
+
 
 ## Running locally
 
